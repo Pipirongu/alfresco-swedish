@@ -17,6 +17,7 @@
    </head>
    
    <body bgcolor="#dddddd">
+   <#setting locale="sv_SE">
       <table width="100%" cellpadding="20" cellspacing="0" border="0" bgcolor="#dddddd">
          <tr>
             <td width="100%" align="center">
@@ -132,16 +133,6 @@
                                        </td>
                                     </tr>
                                  </table>
-                              </td>
-                           </tr>
-                           <tr>
-                              <td>
-                                 <div style="border-top: 1px solid #aaaaaa;">&nbsp;</div>
-                              </td>
-                           </tr>
-                           <tr>
-                              <td style="padding: 0px 30px; font-size: 13px;">
-                                För att få reda på mer om Alfresco ${productName!""} gå till <a href="http://www.alfresco.com">http://www.alfresco.com</a>
                               </td>
                            </tr>
                            <tr>
